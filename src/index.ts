@@ -5,6 +5,7 @@ import connectDB from './db'
 import globalRouter from './routes/global-router'
 import { logger } from './logger'
 
+
 connectDB()
 
 const app = express()

@@ -23,7 +23,7 @@ you. The task is to make your own spotify clone. Here we gooo
 
 ### Tasks
 
-- [ ] Add sharing songs with using websokets like in Spotify(like currently
+- [ ] Add sharing songs with using websockets like in Spotify(like currently
       listening)
 
 ## 🦅 LEGENDARY Level
